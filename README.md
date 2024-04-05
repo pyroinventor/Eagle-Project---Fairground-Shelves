@@ -40,6 +40,8 @@ We piled up the old lumber to be used for another project, swept up all the debr
 
 ### Pre-assembly of New Shelves
 With the old shelves out, it was time to build the new ones. I decided to cut all the lumber and pre-assemble what I could at home, so I could fit everything in a minivan to drive to the site. After a lot of sawing and pre drilling clearance holes, pilot holes, and countersinking, I had the 2x4 frames and plywood shelf tops done. 
+
+![PXL_20210408_014050706](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/9521406f-eded-4d9b-a1ca-7ae575ee4530)
 ![20210407_215504](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/34b8db9f-8eba-45f5-a467-4ad0a3d11baa)
 ![PXL_20210409_135132594](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/8fc7aaa8-1dfc-4789-b564-0dcf5f8a96c0)
 Test fit to make sure everything is correct.
@@ -54,7 +56,19 @@ I scheduled another work day to prep all the lumber for assembly. My team and I 
 <img src="https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/811b135c-6220-4301-8c3c-e9f559cf845d" width="200"/>
 <img src="https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/a68eb022-8f74-4fe6-a1d2-527674a157a2" width="200"/>
 <img src="https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/eb18cac7-6198-4737-87fa-1e1f4ac66058" width="200"/>
-<img src="https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/df929240-f501-4c55-b727-e5a4aaf733b7" width="200"/>
+<img src="https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/df929240-f501-4c55-b727-e5a4aaf733b7" width="200"/> \
 
+The hybrid shelves were free standing, but we made wall mounts for the stadium shelves to prevent them from sliding around while keeping them removable.
+![PXL_20210411_004825626](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/edee603e-1465-479c-830a-5f13af182b50)
+
+After the last screw was in place and all the leveling feet were adjusted, here is the final result!
+![PXL_20210411_195302230](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/18e93cf5-2689-41be-bd14-d152ad21dc95)
+
+One board of review and eagle scout ceremony later:
+![PXL_20210808_212717679](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/8505b959-6685-4964-819b-e6ae02c4d6c5)
+
+## Conclusion
+
+Thanks to the encouragment and guidance of my scout leader, the carpentry advice from my dad, the time and effort of my team of volunteers, and a lot of hard work, the youth in my community have a better platform to display their projects at the country fair. Thanks for reading!
 
 
