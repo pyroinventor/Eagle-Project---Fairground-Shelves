@@ -1,6 +1,4 @@
 # Eagle Project - Fairground Shelves
-For my eagle scout project, I designed and constructed over 60ft of portable display shelving for my local fairgrounds.
-![PXL_20210411_195255696](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/18bf2955-ea7f-484b-bf61-1759a2d60bd4)
 
 ## Project Goal
 The goal of this project was to design and build new shelves for my local county fair. This involved meeting with several fair superintendents to discuss their specific needs to come up with a customized, optimal design for each department.
@@ -62,7 +60,7 @@ The hybrid shelves were free standing, but we made wall mounts for the stadium s
 ![PXL_20210411_004825626](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/edee603e-1465-479c-830a-5f13af182b50)
 
 After the last screw was in place and all the leveling feet were adjusted, here is the final result!
-![PXL_20210411_195302230](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/18e93cf5-2689-41be-bd14-d152ad21dc95)
+![PXL_20210411_195255696](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/18bf2955-ea7f-484b-bf61-1759a2d60bd4)
 
 One board of review and eagle scout ceremony later:
 ![PXL_20210808_212717679](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/8505b959-6685-4964-819b-e6ae02c4d6c5)
