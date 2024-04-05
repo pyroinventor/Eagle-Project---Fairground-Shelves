@@ -13,10 +13,10 @@ As you can see, the shelves were warped, permanently fixed to the wall, and star
 ## Project Execution
 
 ### Planning
-I first needed the approval of the fair board, so I contacted the fair president and we arranged a meeting to discuss the issues I covered in the goal section. With this info, I put together a project proposal and presented it at a fair board meeting. I was given a budget and the go ahead, so I got to work. \
+I first needed the approval of the fair board, so I contacted the fair president and we arranged a meeting to discuss the issues I covered in the goal section. With this info, I put together a project proposal and presented it at a fair board meeting. I was given a budget and the go ahead, so I got to work. 
 
 ### Shelf Design
-With the budget in mind, I sent some possible shelf designs to each of the superintendents to get their feedback. Here are some of my preliminary designs (I didn't end up using the 2x4 design at all):
+With the budget in mind, I sent some possible shelf designs to each of the superintendents to get their feedback. Here are some of my preliminary designs:
 
 ![stadium_design_drw](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/615ad712-d3b0-42d5-928c-3df617e407e7)
 ![2x4_shelf_drw](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/4f5a3696-d77c-43ac-8816-f88df9c9d9f8)
@@ -27,7 +27,7 @@ I was initially going to use all hybrid shelving (2x4 frames with plywood shelf 
 
 After some back and forth I came up with a combo of shelving styles; stadium and hybrid. 
 ![hybrid_shelves_in_building_stadium](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/2af5fb71-599d-41ef-bf0b-c6e0060f96cd)
-This is what I ended up building. \
+This is what I ended up building. 
 
 ### Removal of Old Shelves
 To remove the old shelves, I enlisted the help of 12 volunteers consisting of family, friends, and fellow scouts. It was difficult to coordinate schedules, but we eventually got a date set. I was lucky to have a volunteer with construction experience, so the demo day was very productive and we finished with time to spare.
