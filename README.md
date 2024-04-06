@@ -5,9 +5,11 @@ The goal of this project was to design and build new shelves for my local county
 
 ## Why was this project needed?
 The fair board wanted to use the youth exhibit building for a storage rental space to generate income during the off season, so they needed a more portable shelving solution. Here are some before pictures:
+
 ![DSC04260](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/cb92b126-6c9f-4a29-b332-d08484a5a152)
 ![DSC04269](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/95a8932c-6e80-4153-a086-51e5fd5ef1dc)
 ![DSC04267](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/c05a6193-f3fe-4a86-bbc5-2a042a242d38)
+
 As you can see, the shelves were warped, permanently fixed to the wall, and starting to fall apart. For some departments, the lack of proper shelving made it difficult to effectively show off what the youth have been working on due to factors such as size, weight, and accesibility. I saw an opportunity to completely redisign the shelves, making them portable and customized to the needs of each department.
 
 ## Project Execution
@@ -26,7 +28,9 @@ In addition to the deptartment's needs, I did my best to optimize the shelf desi
 I was initially going to use all hybrid shelving (2x4 frames with plywood shelf tops), but the woodworking dept. required the vertical space and flexibility of stadium shelves.
 
 After some back and forth I came up with a combo of shelving styles; stadium and hybrid. 
+
 ![hybrid_shelves_in_building_stadium](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/2af5fb71-599d-41ef-bf0b-c6e0060f96cd)
+
 This is what I ended up building. 
 
 ### Removal of Old Shelves
@@ -41,7 +45,8 @@ With the old shelves out, it was time to build the new ones. I decided to cut al
 
 ![PXL_20210408_014050706](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/9521406f-eded-4d9b-a1ca-7ae575ee4530)
 ![20210407_215504](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/34b8db9f-8eba-45f5-a467-4ad0a3d11baa)
-![PXL_20210409_135132594](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/8fc7aaa8-1dfc-4789-b564-0dcf5f8a96c0) \
+![PXL_20210409_135132594](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/8fc7aaa8-1dfc-4789-b564-0dcf5f8a96c0) 
+
 Test fit to make sure everything is correct.
 
 The most difficult part was cutting the stringers for the stadium shelves. My dad and I made a custom jig to be used with a circular saw to make it easier, but it still took several hours to cut everything out of the 4x8' sheaths. \
@@ -57,12 +62,15 @@ I scheduled another work day to prep all the lumber. My team and I got all the l
 <img src="https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/df929240-f501-4c55-b727-e5a4aaf733b7" width="200"/> 
 
 The hybrid shelves were free standing, but we made wall mounts for the stadium shelves to prevent them from sliding around while keeping them removable.
+
 ![PXL_20210411_004825626](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/edee603e-1465-479c-830a-5f13af182b50)
 
 After the last screw was in place and all the leveling feet were adjusted, here is the final result!
+
 ![PXL_20210411_195255696](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/18bf2955-ea7f-484b-bf61-1759a2d60bd4)
 
-One board of review and eagle scout ceremony later: \
+One board of review and eagle scout ceremony later: 
+
 ![PXL_20210808_212717679](https://github.com/pyroinventor/Eagle-Project---Fairground-Shelves/assets/77114423/8505b959-6685-4964-819b-e6ae02c4d6c5)
 
 ## Conclusion
